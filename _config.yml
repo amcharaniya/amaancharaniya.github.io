@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Amaan Charaniya"
+  pronouns         : # example: "He/Him"  
+  bio              : "PhD Candidate in Political Science (WUSTL)"
+  location         : "St. Louis, MO"
+  employer         : "Washington University in St. Louis"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "a.charaniya@wustl.edu" 
 
   # Academic websites
   academia         : # URL
@@ -69,7 +69,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : # @amaan_c
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
